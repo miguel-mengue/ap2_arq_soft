@@ -1,3 +1,4 @@
+HEAD
 # Price Crawler - Comparador de Preços 🛒
 
 Este projeto consiste em um **Web Crawler** desenvolvido para automatizar a busca e comparação de preços de produtos em múltiplos *marketplaces* (e-commerces).
@@ -120,3 +121,5 @@ Devido ao desacoplamento, integrar um novo marketplace (ex: Kabum) exige apenas 
 1. **Input**: Adicione a URL base no `produtos.json` (ex: `"url": "https://www.kabum.com.br"`).
 2. **Rotas**: No módulo `crawler/main.py` -> `build_search_url()`, registre a lógica de *path* de busca do e-commerce (ex: `return f"{base_url}/busca?q={query}"`).
 3. **Seletor CSS**: No módulo `crawler/parsers.py`, crie a função de extração especializada, informando o seletor correspondente ao *card* do produto (ex: `soup.select_one('.productCard .price')`).
+
+
