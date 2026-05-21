@@ -1,0 +1,65 @@
+[
+  {
+    "nome": "PlayStation 5",
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://www.mercadolivre.com.br"
+      },
+      {
+        "loja": "KaBuM!",
+        "url": "https://www.kabum.com.br"
+      },
+      {
+        "loja": "Terabyteshop",
+        "url": "https://www.terabyteshop.com.br"
+      },
+      {
+        "loja": "Pichau",
+        "url": "https://www.pichau.com.br"
+      }
+    ]
+  },
+  {
+    "nome": "Controle DualSense PS5",
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://www.mercadolivre.com.br"
+      },
+      {
+        "loja": "KaBuM!",
+        "url": "https://www.kabum.com.br"
+      },
+      {
+        "loja": "Terabyteshop",
+        "url": "https://www.terabyteshop.com.br"
+      },
+      {
+        "loja": "Pichau",
+        "url": "https://www.pichau.com.br"
+      }
+    ]
+  },
+  {
+    "nome": "Placa de Video RTX 4060",
+    "links": [
+      {
+        "loja": "Mercado Livre",
+        "url": "https://www.mercadolivre.com.br"
+      },
+      {
+        "loja": "KaBuM!",
+        "url": "https://www.kabum.com.br"
+      },
+      {
+        "loja": "Terabyteshop",
+        "url": "https://www.terabyteshop.com.br"
+      },
+      {
+        "loja": "Pichau",
+        "url": "https://www.pichau.com.br"
+      }
+    ]
+  }
+]
